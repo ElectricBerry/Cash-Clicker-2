@@ -6,7 +6,7 @@ A Roblox incremental/clicker game with buildings, upgrades, potions, equipment, 
 ---
 
 ## 🎯 Game Type
-**Incremental / Clicker / Tycoon Hybrid**
+**Incremental / Clicker**
 
 ---
 
