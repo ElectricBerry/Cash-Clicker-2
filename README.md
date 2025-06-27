@@ -30,6 +30,7 @@ Latest feature: Rebirth
 | 25/05/2025 | ✅ Craft Relics      |
 | 05/06/2025 | ✅ Rebirth System    |
 | 15–24/06/2025 | 🔧 Rebirth Upgrades (in progress) |
+| 27/06/2025 | 🔧 New Constellations (in progress) |
 
 ---
 
