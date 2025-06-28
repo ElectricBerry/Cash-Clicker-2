@@ -11,8 +11,8 @@ A Roblox incremental/clicker game with buildings, upgrades, potions, equipment, 
 ---
 
 ## 🚧 Current Status
-Currently developing **Rebirth Upgrades**  
-Latest feature: Rebirth
+Currently developing **!**  
+Latest feature: Offline Earnings
 
 ---
 
