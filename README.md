@@ -31,6 +31,7 @@ Latest feature: Rebirth
 | 05/06/2025 | ✅ Rebirth System    |
 | 15-~/06/2025 | 🔧 Rebirth Upgrades (in progress) |
 | 27/06/2025 | ✅ New Constellations |
+| 28/06/2025 | ✅ Offline Earnings |
 
 ---
 
