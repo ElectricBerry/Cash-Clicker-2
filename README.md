@@ -11,7 +11,7 @@ A Roblox incremental/clicker game with buildings, upgrades, potions, equipment, 
 ---
 
 ## 🚧 Current Status
-Currently developing **!**  
+Currently developing **New Relic**  
 Latest feature: Offline Earnings
 
 ---
@@ -32,6 +32,7 @@ Latest feature: Offline Earnings
 | 15-28/06/2025 | ✅ Rebirth Upgrades |
 | 27/06/2025 | ✅ New Constellations |
 | 28/06/2025 | ✅ Offline Earnings |
+| 29/06/2025 | 🔧 New Relic |
 
 ---
 
